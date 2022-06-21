@@ -1,9 +1,0 @@
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/Experimental.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/Nightly.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/Continuous.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/taller.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/PACKAGE.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/ZERO_CHECK.dir
