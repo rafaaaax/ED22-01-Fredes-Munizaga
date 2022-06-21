@@ -1,0 +1,10 @@
+^C:\USERS\RAFAE\DOCUMENTS\GITHUB\ED22-01-FREDES-MUNIZAGA\TALLER\CMAKELISTS.TXT
+setlocal
+"D:\Archivo de programas\cmake\bin\cmake.exe" -SC:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller -BC:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build --check-stamp-file C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/Taller/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

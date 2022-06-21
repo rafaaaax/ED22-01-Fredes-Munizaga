@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rafae\Documents\GitHub\ED22-01-Fredes-Munizaga\Taller\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rafae\Documents\GitHub\ED22-01-Fredes-Munizaga\Taller\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A29407BF-CD19-3BD5-A215-0D51D727BB99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
