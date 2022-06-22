@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/CMakeLists.txt
+C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/build/CMakeFiles/3.24.0-rc1/CMakeCCompiler.cmake
+C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/build/CMakeFiles/3.24.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/build/CMakeFiles/3.24.0-rc1/CMakeRCCompiler.cmake
+C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/build/CMakeFiles/3.24.0-rc1/CMakeSystem.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeCInformation.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CPack.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CPackComponent.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CTest.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CTestTargets.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/CTestUseLaunchers.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/DartConfiguration.tcl.in
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Platform/Windows.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
+D:/Archivo de programas/cmake/share/cmake-3.24/Templates/CPackConfig.cmake.in
+D:/Archivo de programas/opencv/build/x64/vc15/lib/OpenCVConfig-version.cmake
+D:/Archivo de programas/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+D:/Archivo de programas/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+D:/Archivo de programas/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+D:/Archivo de programas/opencv/build/x64/vc15/lib/OpenCVModules.cmake
