@@ -6,8 +6,8 @@
 
 ### Integrantes
 
-* Camila Fredes (Rol)
-* Rafael Munizaga (Rol)
+* Camila Fredes (Programador)
+* Rafael Munizaga (Programador)
 
 ### Bitácora
 
