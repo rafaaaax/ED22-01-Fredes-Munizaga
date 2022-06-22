@@ -7,8 +7,8 @@
 
 **Alumnos:**
 
-* Camila Fredes (Rol)
-* Rafael Munizaga (Rol)
+* Camila Fredes (Programador)
+* Rafael Munizaga (Programador)
 
 ## Resumen 
 
@@ -33,9 +33,9 @@ Desarrollar un sistema de identificación y contento de personas.
 
 **Objetivos específicos**
 
-1. Objetivo 1
-2. Objetivo 2
-3. Objetivos 3
+1. Investigar sobre la intalacion de librerias y IDE 
+2. Implemetar metodos necesarios para el conteo
+3. implementar detectcion de personas en imagen o video
 
 Los objetivos específicos son acciones específicas que son desarrolladas para lograr cumplir el objetivo general, por ejemplo:
 
