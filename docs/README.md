@@ -62,7 +62,7 @@ Se descarga a través del navegador y al ejecutarse se instala C/C++ Extension P
 
 ### 2.2 Diseño 
 
-![imagen](p.png)
+![imagen](images/p.png)
 
 ### 2.3 Implementación
 
