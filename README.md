@@ -1,4 +1,4 @@
-![UCN](C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/60x60-ucn-negro.png)
+![UCN](images/60x60-ucn-negro.png)
 
 
 # Proyecto: Detección y reidentificación de caras en secuencias de imágenes o video
@@ -21,7 +21,7 @@
 
 ### Documentos
 
-* [Reporte Técnico](C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/docs/README.md)
+* [Reporte Técnico](docs/README.md)
 
 
 

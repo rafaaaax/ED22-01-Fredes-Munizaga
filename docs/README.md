@@ -1,4 +1,4 @@
-![UCN](C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/60x60-ucn-negro.png)
+![UCN](images/60x60-ucn-negro.png)
 
 
 # Informe Técnico 
