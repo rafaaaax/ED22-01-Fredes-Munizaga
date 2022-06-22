@@ -7,7 +7,7 @@ enable_testing()
 find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
-add_executable(taller src/main.cpp)
+add_executable(taller src/detectPeopleSimple.cpp)
 
 target_link_libraries(taller ${OpenCV_LIBS})
 
