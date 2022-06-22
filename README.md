@@ -11,7 +11,7 @@
 
 ### Bitácora
 
-[Ver Bitácora](C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/docs/BITACORA.md)
+[Ver Bitácora](docs/BITACORA.md)
 
 ### Resumen
 
