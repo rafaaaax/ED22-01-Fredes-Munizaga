@@ -37,9 +37,9 @@ public:
         // groupThreshold (set groupThreshold to 0 to turn off the grouping completely).
         vector<Rect> found;
         if (m == Default)
-            hog.detectMultiScale(img, found, 0, Size(2,2), Size(4,4), 1.05, 2, false);
+            hog.detectMultiScale(img, found, 0, Size(8,8), Size(8,8), 1.05, 2, false);
         else if (m == Daimler)
-            hog_d.detectMultiScale(img, found, 0, Size(4,4), Size(8,8), 1.02, 3, true);
+            hog_d.detectMultiScale(img, found, 0, Size(4,4), Size(4,4), 1.02, 3, true);
 
         // Convierto los objetos Rect a Persona
         
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
     // Declaro una estructura de tipo matriz (Mat)
     Mat imagen;
     // Cargo la estructura de datos con una imagen
-    imagen = imread("C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/personas.png");
+    imagen = imread("C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/gente3.jpeg");
 
     // Cambia el tipo de algoritmo de deteccion de personas
     //detector.toggleMode();
