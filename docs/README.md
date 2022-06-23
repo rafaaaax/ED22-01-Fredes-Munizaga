@@ -1,4 +1,4 @@
-![UCN](images/60x60-ucn-negro.png)
+![UCN](docs/60x60-ucn-negro.png)
 
 
 # Informe Técnico 
@@ -62,7 +62,7 @@ Se descarga a través del navegador y al ejecutarse se instala C/C++ Extension P
 
 ### 2.2 Diseño 
 
-![imagen](images/p.png)
+![io](docs/p.png)
 
 ### 2.3 Implementación
 
