@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 
     Detector detector;
     Mat imagen;
-    imagen = imread("/home/jbekios/CODE/opencvTests/images/image0292.png");
+    imagen = imread("C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/gente3.jpeg");
     detector.toggleMode();
     cout << detector.modeName() << endl;
 
