@@ -1,14 +1,16 @@
 #include <stdio.h>
 #include <opencv2/opencv.hpp>
 
+
 using namespace cv;
 int main(int argc, char** argv) 
 {
     // Declarar una matriz 
     Mat image;
     // Creo la matriz con una imagen
-    image = imread("C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/VICENT.jpeg") ;
+    image = imread("C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/image0292.png") ;
     // image == 0, no cargo la imagen
+    
     if (!image.data)
     {
         //Indicar un error

@@ -7,6 +7,7 @@
 #include <opencv2/imgproc.hpp>
 #include <opencv2/videoio.hpp>
 
+#include "LinkedList.hpp"
 #include <iostream>
 #include <iomanip>
 
@@ -21,6 +22,8 @@ int main(int argc, char** argv)
 
     Detector detector;
     Mat imagen;
+    
+    LinkedList linkedlist;
     imagen = imread("C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/gente3.jpeg");
     detector.toggleMode();
     cout << detector.modeName() << endl;
@@ -29,6 +32,7 @@ int main(int argc, char** argv)
     for (vector<Persona>::iterator i = found.begin(); i != found.end(); ++i)
     {
         Persona &p = *i;
+        linkedlist.insertar(p);
         cout << "(" << p.getXComienzo() << ", " << p.getYComienzo() << ")" << endl;
         //detector.adjustRect(r);
         rectangle(imagen, cv::Point(p.getXComienzo(), p.getYComienzo()), cv::Point(p.getXFin(), p.getYFin()), cv::Scalar(0, 255, 0), 2);
@@ -39,6 +43,7 @@ int main(int argc, char** argv)
     
     imshow("People detector", imagen);
     waitKey(0);
+    cout << linkedlist.size() << endl;
 
     return 0;
 }

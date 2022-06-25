@@ -79,6 +79,7 @@ int main(int argc, char** argv)
     {
         Rect &r = *i;
         cout << r << endl;
+        
         // Los puntos de deteccion que hace el algoritmo muy grande
         detector.adjustRect(r);
         // Dibujar el rectangulo
@@ -87,6 +88,6 @@ int main(int argc, char** argv)
 
     imshow("People detector", imagen);
     waitKey(0);
-
+   
     return 0;
 }
