@@ -8,8 +8,8 @@ find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
 #Rutas ejecutables para comentar ´#´ y borrar para alternar rutas
- add_executable(taller src/main.cpp)
- #add_executable(taller src/detectPeopleSimple.cpp)
+# add_executable(taller src/main.cpp)
+ add_executable(taller src/detectPeopleSimple.cpp)
 # add_executable(taller src/Detector.cpp src/detectPeople.cpp)
 # add_executable(taller src/detectPeople.cpp)
 # add_executable(taller src/Persona.cpp)
