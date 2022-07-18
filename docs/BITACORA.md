@@ -9,4 +9,4 @@
 | 21/JUN | OBJ-02 | Implementar lectura de imágenes utilizando las librerías de OpenCV | Rafael | 1 horas | 3 horas |
 | 21/JUN | OBJ-03 | Implementar Deteccion de Personas utilizando las librerías de OpenCV  | Rafael | 1 horas | 3 horas |
 | 22/JUN | OBJ-03 | Realizar el informe  | Rafael | 1 horas | 3 horas |
-| 24/JUN | OBJ-00 | LinkedList y Nodos  | Rafael | 1 horas | 3 horas |
+| 24/JUN | OBJ-00 | LinkedList y Nodos  | Rafael/Camila | 1 horas | 3 horas |

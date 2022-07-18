@@ -317,7 +317,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\rafae\Documents\GitHub\ED22-01-Fredes-Munizaga\src\detectPeopleSimple.cpp" />
+    <ClCompile Include="C:\Users\rafae\Documents\GitHub\ED22-01-Fredes-Munizaga\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\rafae\Documents\GitHub\ED22-01-Fredes-Munizaga\build\ZERO_CHECK.proj">

@@ -1,29 +1,64 @@
 #include <stdio.h>
 #include <opencv2/opencv.hpp>
+#include <stdlib.h>
 
+using namespace std;
 
-using namespace cv;
-int main(int argc, char** argv) 
+int main() 
 {
-    // Declarar una matriz 
-    Mat image;
-    // Creo la matriz con una imagen
-    image = imread("C:/Users/rafae/Documents/GitHub/ED22-01-Fredes-Munizaga/images/image0292.png") ;
-    // image == 0, no cargo la imagen
-    
-    if (!image.data)
-    {
-        //Indicar un error
-        printf("No image data \n");
-        return -1;
+    char a;
+    do{
+        int a,b;
+        cout<< "1- GUARDIA \n";
+        cout<< "2- ADMINISTRADOR \n";
+        cout<< "3- SALIR \n";
+        cin>> a;
+        switch (a)
+        {
+        case 1:
+            cout<< "1- DETECTAR PERSONAS \n";
+            cout<< "2- CONTAR PERSONAS ENTRANDO \n";
+            cout<< "3- CONTAR PERSONAS SALIENDO \n";
+            cout<< "4- PERSONAS QUE ENTRAN POR HORA \n";
+            cout<< "5- PERSONAS QUE SALE POR HORA \n";
+            cout<< "6- VOLVER AL MENU \n";
+            cin>> b;
+            if (b ==  1,2,3,4,5){
+                return main();
+            }
+            else{
+                return main();
+            }
+            break;
+        case 2:
+            cout<< "1- CONFIGURACION CAMARA O ARCHIVO \n";
+            cin>> b;
+            if (b == 1){
+                return main();
+            }
+            else{
+                return main();
+            }
+            break;
+        case 3:
+            cout<< "SEGURO QUIERES SALIR? SI o NO \n";
+            cout<< "\n 1- SI";
+            cout<< "\n 2- NO\n\n";
+            cin>> b;
+            if (b == 1){
+                return 0;
+            }
+            else{
+                return main();
+            }
+            break;
+            default:
+            return main();
+            break;
+        }
     }
-    // image == 1, muestro la imagen
-    // Creo una ventana vacia que tien nombre "IMAGEN"
-    namedWindow("IMAGEN", WINDOW_AUTOSIZE);
-    // Coloco la imagen dentro de la ventana vacia
-    imshow("IMAGEN", image);
-    // El programa queda en espera de una tecla
-    //waitkey(milisegundos cierre imagen)
-    waitKey(0);
-    return 0;
+    while (a != 3);
+    system("pause");
+    return main();
+    
 }

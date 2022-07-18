@@ -37,7 +37,7 @@ public:
         // groupThreshold (set groupThreshold to 0 to turn off the grouping completely).
         vector<Rect> found;
         if (m == Default)
-            hog.detectMultiScale(img, found, 0, Size(8,8), Size(8,8), 1.05, 2, false);
+            hog.detectMultiScale(img, found, 0, Size(8,8), Size(4,4), 1.05, 2, false);
         else if (m == Daimler)
             hog_d.detectMultiScale(img, found, 0, Size(4,4), Size(4,4), 1.02, 3, true);
 
